@@ -1,0 +1,11 @@
+body{
+    background: black;
+}
+.nav__bar a{
+    text-decoration: none;
+    font-size: xx-large;
+    color: white;
+    padding: 10px 20px;
+    text-shadow: 3px 3px 6px WHITE;
+}
+
